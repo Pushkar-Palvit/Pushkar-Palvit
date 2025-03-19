@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pushkar-Palvit
 - 👀 I’m interested in Physics,Maths and Problem Solving
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on HTML 
+- 💞️ I’m looking to collaborate on HTML(intermediate)
 - 📫 to reach me Email at pushkarpalvit8@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
